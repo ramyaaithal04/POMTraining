@@ -16,7 +16,7 @@ public class LoginPage{
 	private By emailId=By.id("username");
 	private By password=By.id("password");
 	private By loginButton=By.id("loginBtn");
-	private By signUpLink=By.linkText("Sign up");
+	private By signUpLink=By.linkText("Sign up11");
 	
 	public LoginPage(WebDriver driver)
 	{
